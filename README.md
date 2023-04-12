@@ -1,5 +1,5 @@
 # hugaxyu
-![Alt text](/screenshots/screenshot.png "screenshot")
+![Alt text](/screenshots/screenshot.jpg "screenshot")
 
 ## Compilation
 ```
